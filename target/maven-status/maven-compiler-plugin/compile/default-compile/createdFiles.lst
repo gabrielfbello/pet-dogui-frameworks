@@ -1,0 +1,13 @@
+br\com\unipar\frameworks\model\DAO\GenericDAO.class
+br\com\unipar\frameworks\model\Endereco.class
+br\com\unipar\frameworks\model\Cidade.class
+br\com\unipar\frameworks\model\Cliente.class
+br\com\unipar\frameworks\hibernatemaven\HibernateMaven.class
+br\com\unipar\frameworks\model\util\EntityManagerUtil.class
+br\com\unipar\frameworks\model\DAO\ClienteDAO.class
+br\com\unipar\frameworks\model\Estado.class
+br\com\unipar\frameworks\model\Telefone.class
+br\com\unipar\frameworks\model\DAO\CidadeDAO.class
+br\com\unipar\frameworks\model\Usuario.class
+br\com\unipar\frameworks\model\DAO\UsuarioDAO.class
+br\com\unipar\frameworks\model\Enums\SituacaoAgendamento.class
